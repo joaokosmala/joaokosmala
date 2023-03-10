@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=50&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Dazz;I+am+currently+17+years+old;Work+making+bots;for+the+Discord+platform:%40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=50&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Dazz;I+am+currently+17+years+old;Work+making+bots;for+the+Discord+platform)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="35%" height="185px" src="https://github-readme-stats.vercel.app/api?username=DazzDeveloper&show_icons=true&Dazz=true&hide_border=true&title_color=00C4D3&icon_color=87CEEB&text_color=c9d1d9&bg_color=0d1117" alt="My Stats:" /> 
