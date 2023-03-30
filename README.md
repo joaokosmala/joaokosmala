@@ -2,7 +2,7 @@
 
 Readme em Português: 
 
-- [Clique aqui!](https://github.com/kolzzdev/Verification-Discord.js-bot#ola-sou-o-kolzz)
+- [Clique aqui!](https://github.com/kolzzdev/README.md#ola-sou-o-kolzz)
 
 Readme in English: 
 
