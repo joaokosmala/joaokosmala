@@ -1,20 +1,47 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
 
+Readme em Português: 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=50&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Kolzz;I+am+currently+17+years+old;Work+making+bots;for+the+Discord+platform)](https://git.io/typing-svg)
+- [Clique aqui!](https://github.com/kolzzdev/Verification-Discord.js-bot#ola-sou-o-kolzz)
 
-<div align="center">  
-  <img width="35%" height="185px" src="https://github-readme-stats.vercel.app/api?username=kolzzdev&show_icons=true&Kolzz=true&hide_border=true&title_color=00C4D3&icon_color=87CEEB&text_color=c9d1d9&bg_color=0d1117" alt="My Stats:" /> 
+Readme in English: 
 
-</div aling="center">
+- [Click here!]()
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=27&center=false&vCenter=false&repeat=false&width=1000&lines=Languages+used+in+repositories:)
-<img align="center" alt="Java" src="https://img.shields.io/badge/javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white">
-<img align="center" alt="Html" src="https://img.shields.io/badge/html-ED8B00?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="Type" src="https://img.shields.io/badge/TypeScript-ED8B00?style=for-the-badge&logo=TypeScript&logoColor=white">
-   
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
+
+
+# Olá, eu sou o Kolzz 👋
+
+Bom me chamo João e atualmente tenho 17 anos de idade, trabalho principalmente com Node.js e outras ferramentas para criar bots para plataforma Discord e outras coisas ai. Neste perfil, você pode encontrar alguns dos meus projetos e ideias malucas. Além disso, eu tenho uma loja no Discord onde vendo bots personalizados para Discord.
+
+## Projetos
+
+Aqui estão alguns dos meus projetos favoritos que desenvolvi:
+
+- [Bot with ticket system](https://github.com/kolzzdev/Ticket-system-Discord.js-bot): Um simples bot de tickets para a plataforma Discord.
+
+- [Bot with moderation system](https://github.com/kolzzdev/Moderation-system-Discord.js-bot): Um bot com comandos de moderação para a plataforma Discord.
+
+- [Bot with verification system](https://github.com/kolzzdev/Verification-system-Discord.js-bot): Um bot muito simples com um sistema de verificação de usuários.
+
+
+
+## Estatísticas do GitHub
+
+Aqui estão algumas estatísticas sobre meus repositórios e contribuições no GitHub:
+
+[![kolzzdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolzzdev&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Entre em contato
+
+- Instagram: [Clique aqui!](https://www.instagram.com/kolzzofc/)
+- WhatsApp: [Clique aqui!](https://wa.me/+5547991290481)
+- Stability Bots: [Clique aqui!](https://discord.gg/GKnmxuc2QV)
+
+Obrigado por visitar meu perfil! 😄
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer"/>
