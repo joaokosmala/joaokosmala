@@ -38,7 +38,7 @@ Aqui estão algumas estatísticas sobre meus repositórios e contribuições no 
 ## Entre em contato
 
 - Instagram: [Clique aqui!](https://www.instagram.com/kolzzofc/)
-- WhatsApp: [Clique aqui!](https://wa.me/+5547991290481)
+- WhatsApp: [Clique aqui!](https://wa.me/+5547996266825)
 - Stability Bots: [Clique aqui!](https://discord.gg/GKnmxuc2QV)
 
 Obrigado por visitar meu perfil! 😄
@@ -72,7 +72,7 @@ Here are some stats about my GitHub repositories and contributions:
 ## Contact me
 
 - Instagram: [Click here!](https://www.instagram.com/kolzzofc/)
-- WhatsApp: [Click here!](https://wa.me/+5547991290481)
+- WhatsApp: [Click here!](https://wa.me/+5547996266825)
 - Stability Bots: [Click here!](https://discord.gg/GKnmxuc2QV)
 
 Thanks for visiting my profile! 😄
