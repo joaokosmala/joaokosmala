@@ -1,17 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
 
-Readme em Português: 
-
-- [Clique aqui!](https://github.com/kolzzdev/kolzzdev#ol%C3%A1-eu-sou-o-kolzz-)
-
-Readme in English: 
-
-- [Click here!](https://github.com/kolzzdev/kolzzdev#hi-im-kolzz-)
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
-
 
 # Olá, eu sou o Kolzz 👋
 
@@ -45,36 +33,4 @@ Obrigado por visitar meu perfil! 😄
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
 
-# Hi, I'm Kolzz 👋
-
-My name is João and I'm currently 17 years old, I work mainly with Node.js and other tools to create bots for the Discord platform and other things there. In this profile, you can find some of my projects and crazy ideas. Also, I have a Discord store where I sell custom bots for Discord.
-
-## Projects
-
-Here are some of my favorite projects I've developed:
-
-- [Bot with ticket system](https://github.com/kolzzdev/Ticket-system-Discord.js-bot): A simple ticket bot for the Discord platform.
-
-- [Bot with moderation system](https://github.com/kolzzdev/Moderation-system-Discord.js-bot): A bot with moderation commands for the Discord platform.
-
-- [Bot with verification system](https://github.com/kolzzdev/Verification-system-Discord.js-bot): A very simple bot with a user verification system.
-
-
-
-## GitHub Stats
-
-Here are some stats about my GitHub repositories and contributions:
-
-[![kolzzdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolzzdev&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## Contact me
-
-- Instagram: [Click here!](https://www.instagram.com/kolzzofc/)
-- WhatsApp: [Click here!](https://wa.me/+5547996266825)
-- Stability Bots: [Click here!](https://discord.gg/GKnmxuc2QV)
-
-Thanks for visiting my profile! 😄
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer"/>
