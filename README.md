@@ -3,8 +3,9 @@
 
 # Olá, eu sou o Kolzz 👋
 
-Bom me chamo João e atualmente tenho 17 anos de idade, trabalho principalmente com Node.js e outras ferramentas para criar bots para plataforma Discord e outras coisas ai. Neste perfil, você pode encontrar alguns dos meus projetos e ideias malucas. Além disso, eu tenho uma loja no Discord onde vendo bots personalizados para Discord.
+Bom me chamo João e atualmente tenho 18 anos de idade, Atualmente trabalho com Node.js e linguagens Web "HTML5, CSS3", Sou CEO da Stability Host uma provedora de serviços em nuvem atualmente famosa entre as comunidades online principalmente de jogos como Minecraft.
 
+Não tenho nenhum tipo de formação na area de Desenvolvimento de softwares mas ja trabalho e atuo na area a quase 6 anos... Comecei na programação 13 anos de idade fazendo plugins para um servidor de Minecraft que eu tinha na epoca. Depois de um tempo me interresei muito pelas linguagens web "Dev Front-end" e comecei a me especializar nessa area, desejo muito fazer uma faculdade na area de analise de sistemas, para abrir meus conhecimentos na programação.
 ## Projetos
 
 Aqui estão alguns dos meus projetos favoritos que desenvolvi:
