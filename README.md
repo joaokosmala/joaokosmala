@@ -3,12 +3,15 @@
 
 # Olá, eu sou o Kolzz 👋
 
-Bom me chamo João e atualmente tenho 18 anos de idade, Trabalho com Node.js e linguagens Web "HTML5, CSS3", Sou CEO da Stability Host uma provedora de serviços em nuvem atualmente famosa entre as comunidades online principalmente de jogos como Minecraft.
+Olá, meu nome é João, e sou desenvolvedor de software com um amplo conhecimento em diversas áreas. Meu foco principal está no desenvolvimento utilizando Node.js, uma tecnologia que utilizo para criar sites modernos e dinâmicos. Combinando essa tecnologia com linguagens web, como HTML5 e CSS3, sou capaz de criar interfaces atraentes e funcionais para os usuários.
 
-Não tenho nenhum tipo de formação na area de Desenvolvimento de softwares, mas ja trabalho e atuo na area a quase 6 anos... Comecei na programação 13 anos de idade fazendo plugins para um servidor de Minecraft que eu tinha na epoca, Depois de um tempo me interresei muito pelas linguagens web "Dev Front-end" e comecei a me especializar nessa area, desejo muito fazer uma faculdade na area de analise de sistemas, para abrir meus conhecimentos na programação.
+Desde cedo, descobri minha paixão por jogos, especialmente Minecraft. Aos 12 anos, comecei a explorar a criação de plugins em Java para o Minecraft, o que me permitiu personalizar e aprimorar a experiência de jogo em meu servidor. Essa experiência me proporcionou um profundo entendimento do funcionamento interno do jogo e a habilidade de desenvolver soluções personalizadas para atender às necessidades dos jogadores.
 
-Sou muito extrovertido em tudo que faço e sempre tento dar meu melhor em tudo, Por conta disso creio que me tornarei um grande dev, não só pelo meu entusiasmo mas sim pela facilidade que tenho na area e a paixão pelos codigos...
+Ao longo do tempo, expandi meus horizontes e me aventurei no desenvolvimento de bots utilizando a biblioteca Discord.js, deixando um pouco de lado o Java. Com essa tecnologia, criei bots personalizados para o Discord, uma plataforma de comunicação muito popular entre os jogadores. Esses bots me permitiram automatizar tarefas, fornecer informações relevantes e interagir com os usuários de forma eficiente, o que me ajudou significativamente a aumentar minha renda através de orçamentos desses bots. Essas novas oportunidades me permitiram explorar ainda mais minha paixão pela programação.
 
+Apesar de não possuir uma formação formal na área de desenvolvimento de software, minha experiência de alguns anos me proporcionou um profundo conhecimento e habilidades práticas nesses campos. Estou constantemente aprendendo e me atualizando sobre as últimas tendências e melhores práticas de desenvolvimento. Acredito que a combinação da minha paixão pela programação, facilidade de aprendizado e meu comprometimento em entregar resultados de alta qualidade me tornará um desenvolvedor de destaque no presente e no futuro.
+
+Estou ansioso para expandir ainda mais meu conhecimento, explorar novas tecnologias e enfrentar desafios emocionantes, independentemente de qual sejam. Seja criando sites incríveis, desenvolvendo plugins personalizados para jogos ou construindo bots interativos, estou sempre pronto para o que for necessário. Comprometo-me em criar soluções inovadoras e proporcionar experiências excepcionais aos usuários que utilizarem os produtos desenvolvidos por mim.
 
 ## Projetos
 
