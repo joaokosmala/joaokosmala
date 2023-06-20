@@ -41,6 +41,8 @@ Aqui estão algumas estatísticas sobre meus repositórios e contribuições no 
 
 Obrigado por visitar meu perfil! 😄
 
+![Snake animation](https://github.com/kolzzdev/readme-private/blob/main/github-contribution-grid-snake.svg)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer"/>
 
