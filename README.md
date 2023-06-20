@@ -23,7 +23,7 @@ Aqui estão alguns dos meus projetos favoritos que desenvolvi:
 
 - [Bot with verification system](https://github.com/kolzzdev/Verification-system-Discord.js-bot): Um bot muito simples com um sistema de verificação de usuários.
 
-- [Primazia site web](https://github.com/kolzzdev): Um site que fiz para a empresa de meu pai.
+- [Primazia site web](https://github.com/kolzzdev/Primazia-Web-site): Um site que fiz para a empresa de meu pai.
 
 
 
