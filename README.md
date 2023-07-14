@@ -3,7 +3,7 @@
 
 # Olá, eu sou o Kolzz 👋
 
-Olá, meu nome é João, e sou desenvolvedor de software com um amplo conhecimento em diversas áreas. Meu foco principal está no desenvolvimento utilizando Node.js, uma tecnologia que utilizo para criar sites modernos e dinâmicos. Combinando essa tecnologia com linguagens web, como HTML5 e CSS3, sou capaz de criar interfaces atraentes e funcionais para os usuários.
+Olá, meu nome é João Gustavo e sou desenvolvedor de software com um amplo conhecimento em diversas áreas. Meu foco principal está no desenvolvimento utilizando Node.js, uma tecnologia que utilizo para criar sites modernos e dinâmicos. Combinando essa tecnologia com linguagens web, como HTML5 e CSS3, sou capaz de criar interfaces atraentes e funcionais para os usuários.
 
 Desde cedo, descobri minha paixão por jogos, especialmente Minecraft. Aos 12 anos, comecei a explorar a criação de plugins em Java para o Minecraft, o que me permitiu personalizar e aprimorar a experiência de jogo em meu servidor. Essa experiência me proporcionou um profundo entendimento do funcionamento interno do jogo e a habilidade de desenvolver soluções personalizadas para atender às necessidades dos jogadores.
 
@@ -21,11 +21,6 @@ Aqui estão alguns dos meus projetos favoritos que desenvolvi:
 
 - [Bot with moderation system](https://github.com/kolzzdev/Moderation-system-Discord.js-bot): Um bot com comandos de moderação para a plataforma Discord.
 
-- [Bot with verification system](https://github.com/kolzzdev/Verification-system-Discord.js-bot): Um bot muito simples com um sistema de verificação de usuários.
-
-- [Primazia site web](https://github.com/kolzzdev/Primazia-Web-site): Um site que fiz para a empresa de meu pai.
-
-
 
 ## Estatísticas do GitHub
 
@@ -37,7 +32,6 @@ Aqui estão algumas estatísticas sobre meus repositórios e contribuições no 
 
 - Instagram: [Clique aqui!](https://www.instagram.com/joaokosmala/)
 - WhatsApp: [Clique aqui!](https://wa.me/+5547996266825)
-- Stability Bots: [Clique aqui!](https://discord.gg/GKnmxuc2QV)
 
 Obrigado por visitar meu perfil! 😄
 
