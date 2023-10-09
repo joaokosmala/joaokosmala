@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
 
 
-# Olá, eu sou o Kolzz 👋
+# Olá, eu sou o João 👋
 
 Olá, meu nome é João Gustavo e sou desenvolvedor de software com um amplo conhecimento em diversas áreas. Meu foco principal está no desenvolvimento utilizando Node.js, uma tecnologia que utilizo para criar sites modernos e dinâmicos. Combinando essa tecnologia com linguagens web, como HTML5 e CSS3, sou capaz de criar interfaces atraentes e funcionais para os usuários.
 
