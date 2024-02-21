@@ -21,17 +21,12 @@ Aqui estão alguns dos meus projetos favoritos que desenvolvi:
 -
 -
 
-## Estatísticas do GitHub
-
-Aqui estão algumas estatísticas sobre meus repositórios e contribuições no GitHub:
-
-[![joaokosmala's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaokosmala&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaokosmala&hide_progress=true)
-
 ## Entre em contato
 
 - Instagram: [Clique aqui!](https://www.instagram.com/joaokosmala/)
+- 
 
-Obrigado por visitar meu perfil! 😄
+## Obrigado por visitar meu perfil! 😄
 
 ![Snake animation](https://github.com/kolzzdev/readme-private/blob/main/github-contribution-grid-snake.svg)
 
