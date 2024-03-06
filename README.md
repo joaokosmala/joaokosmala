@@ -17,7 +17,7 @@ Estou ansioso para expandir ainda mais meu conhecimento, explorar novas tecnolog
 
 Aqui estão alguns dos meus projetos favoritos que desenvolvi:
 
-- 
+- [Base para bots discord](https://github.com/joaokosmala/base-bots)
 -
 -
 
