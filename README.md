@@ -25,6 +25,7 @@ Aqui estão alguns dos meus projetos favoritos que desenvolvi:
 
 - Instagram: [Clique aqui!](https://www.instagram.com/joaokosmala/)
 - WhatsApp: [Clique aqui!](https://wa.me/5547996266825)
+- Discord: [Clique aqui!](https://discord.gg/raUBBVb8eP)
 
 ## Obrigado por visitar meu perfil! 😄
 
