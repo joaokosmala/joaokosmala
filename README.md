@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
 
 
-# Olá, eu sou o João 👋
+# Olá, eu sou o Kolz 👋
 
-Olá, meu nome é João Gustavo e sou desenvolvedor Front-End com um amplo conhecimento em diversas áreas. Meu foco principal está no desenvolvimento utilizando Node.js, uma tecnologia que utilizo para criar sites modernos e dinâmicos. Combinando essa tecnologia com linguagens web, como HTML5 e CSS3 e outras linguagens da programação como php, ruby, java e por ai vai...
+Olá, meu nome é KolzDak e sou desenvolvedor Front-End com um amplo conhecimento em diversas áreas. Meu foco principal está no desenvolvimento utilizando Node.js, uma tecnologia que utilizo para criar sites modernos e dinâmicos. Combinando essa tecnologia com linguagens web, como HTML5 e CSS3 e outras linguagens da programação como php, ruby, java e por ai vai...
 
 Desde cedo, descobri minha paixão por jogos, aos 12 anos, comecei a explorar a criação de plugins em Java, o que me permitiu personalizar e aprimorar a experiência de jogo em meus servidores. Essa experiência me proporcionou um profundo entendimento do funcionamento interno de alguns jogos e a habilidade de desenvolver soluções personalizadas para atender às necessidades dos jogadores e clientes.
 
