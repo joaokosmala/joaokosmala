@@ -15,11 +15,11 @@ Estou ansioso para expandir ainda mais meu conhecimento, explorar novas tecnolog
 
 ## Projetos
 
-Aqui estão alguns dos meus projetos favoritos que desenvolvi:
+Aqui estão alguns dos meus projetos que desenvolvi:
 
 - [Base para bots discord](https://github.com/joaokosmala/base-bots)
--
--
+- [Site Corec Gta Rp](https://github.com/joaokosmala/site-corec)
+- [Site Porte de armas Gta Rp](https://github.com/joaokosmala/site-porte)
 
 ## Entre em contato
 
