@@ -1,33 +1,68 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
+<h1 align="center">👨‍💻 João Kosmala</h1>
 
+<p align="center">
+Desenvolvedor Front-End | Node.js | Bots para Discord | Sistemas Web  
+</p>
 
-# Olá 👋
+---
 
-Olá, meu nome é João Kosmala e sou desenvolvedor Front-End com um amplo conhecimento em diversas áreas. Meu foco principal está no desenvolvimento utilizando Node.js. Combinando essa tecnologia com linguagens web, como HTML5 e CSS3 e outras linguagens da programação como php, ruby, java e por ai vai...
+## 👋 Sobre mim
 
-Desde cedo, descobri minha paixão por jogos, aos 12 anos, comecei a explorar a criação de plugins em Java, o que me permitiu personalizar e aprimorar a experiência de jogo em meus servidores de minecraft. Essa experiência me proporcionou um profundo entendimento do funcionamento interno de alguns jogos e a habilidade de desenvolver soluções personalizadas para atender às necessidades dos jogadores e clientes.
+Olá! Meu nome é **João Kosmala** e sou **Desenvolvedor Front-End**, com foco em projetos que utilizam **Node.js**, **JavaScript**, **HTML5** e **CSS3**. Também possuo experiência com linguagens como **PHP**, **Java**, entre outras, o que me permite atuar com versatilidade em diferentes tipos de projetos e stacks.
 
-Ao longo do tempo, expandi meus horizontes e me aventurei no desenvolvimento utilizando a Node.js e foi ai que tudo começou, deixando um pouco de lado o Java. Com essa tecnologia, tive a capacidade de criar bots personalizados para o Discord, uma plataforma de comunicação muito popular entre os jogadores. Esses bots me permitiram automatizar tarefas, fornecer informações relevantes e interagir com os usuários de forma eficiente, o que me ajudou significativamente a aumentar meu conhecimento na área e com isso acabei recebendo novas oportunidades que me permitiram explorar ainda mais minha paixão pela programação com criação de sites e entre outros projetos.
+Tenho **formação em Análise e Desenvolvimento de Sistemas**, o que me proporciona uma base sólida em lógica de programação, estruturas de dados, arquitetura de software e desenvolvimento de aplicações web.
 
-Apesar de atualmente minhas formações serem insignificantes minha experiência de alguns anos me proporcionou um profundo conhecimento e habilidades práticas nesses campos. Estou constantemente aprendendo e me atualizando sobre as últimas tendências e melhores práticas de desenvolvimento. Acredito que a combinação da minha paixão pela programação, facilidade de aprendizado e meu comprometimento em entregar resultados de alta qualidade me torna um desenvolvedor de destaque no presente e no futuro.
+Atuo principalmente na criação de **bots personalizados para Discord**, **sistemas web interativos** e **interfaces modernas** que aliam desempenho, usabilidade e design. Busco sempre entregar soluções bem estruturadas, escaláveis e adaptadas às necessidades específicas de cada cliente ou comunidade.
 
-Estou ansioso para expandir ainda mais meu conhecimento, explorar novas tecnologias e enfrentar desafios emocionantes, independentemente de qual sejam. Seja criando sites incríveis, construindo bots interativos, estou sempre pronto para o que for necessário. Comprometo-me em criar soluções inovadoras e proporcionar experiências excepcionais aos usuários que utilizarem os produtos desenvolvidos por mim.
+Sou movido por inovação, foco em resultados e paixão por transformar ideias em soluções reais. Se você procura um desenvolvedor comprometido, criativo e preparado para enfrentar qualquer desafio, estou pronto para contribuir com seu projeto.
 
-## Projetos
+---
 
-Aqui estão alguns dos meus projetos que desenvolvi:
+## 🛠️ Tecnologias que utilizo
 
-- [Base para bots discord](https://github.com/joaokosmala/base-bots)
-- [Site Corec Gta Rp](https://github.com/joaokosmala/site-corec)
-- [Site Porte de armas Gta Rp](https://github.com/joaokosmala/site-porte)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## Entre em contato
+---
 
-- Instagram: [Clique aqui!](https://www.instagram.com/joaokosmala/)
-- WhatsApp: [Clique aqui!](https://wa.me/5547996266825)
-- Discord: [Clique aqui!](https://discord.gg/9ZqRdqZphF)
+## 🚀 Projetos em destaque
 
-## Obrigado por visitar meu perfil! 😄
+- 🔧 Bots para Discord com comandos personalizados, integração com bancos de dados e sistemas de logs
+- 🌐 Sites responsivos e dinâmicos com interfaces modernas
+- ⚙️ Sistemas de automação, controle de usuários, estatísticas e dashboards interativos
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer"/>
+> *Veja mais navegando pelos meus repositórios!*
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaokosmala&show_icons=true&theme=radical" alt="Estatísticas de João Kosmala" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaokosmala&theme=radical" alt="Streak de João Kosmala" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaokosmala&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+## 📫 Como me encontrar
+
+- Email: **joaokosmalaofc@email.com**
+- Instagram: [instagram.com/joaokosmala](https://instagram.com/joaokosmala)
+- Discord: **@seunome#0000**
+
+---
+
 
