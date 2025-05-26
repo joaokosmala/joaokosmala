@@ -60,8 +60,8 @@ Sou movido por inovação, foco em resultados e paixão por transformar ideias e
 ## 📫 Como me encontrar
 
 - Email: **joaokosmalaofc@email.com**
-- Instagram: [instagram.com/joaokosmala](https://instagram.com/joaokosmala)
-- Discord: **@seunome#0000**
+- Instagram: **[instagram.com/joaokosmala](https://instagram.com/joaokosmala)**
+- Discord: **[@24001](https://discord.com/channels/@me/1226298476434952265)**
 
 ---
 
