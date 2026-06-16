@@ -1,4 +1,4 @@
-<h1 align="center">🚀 João Kosmala</h1>
+<h1 align="center">João Kosmala | ADS</h1>
 
 <h3 align="center">
 Software Developer | Systems Automation | Web Solutions
@@ -22,12 +22,12 @@ Tenho experiência com tecnologias do ecossistema JavaScript e desenvolvimento d
 
 ### Atualmente trabalho com:
 
-- ⚙️ Automação de Processos
-- 🤖 Desenvolvimento de Bots Personalizados
-- 🌐 Sistemas Web
-- 🔗 Integrações com APIs
-- 📊 Dashboards Administrativos
-- 🚀 Soluções Personalizadas para Empresas
+- Automação de Processos
+- Desenvolvimento de Bots Personalizados
+- Sistemas Web
+- Integrações com APIs
+- Dashboards Administrativos
+- Soluções Personalizadas para Empresas
 
 ---
 
