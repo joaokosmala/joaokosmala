@@ -128,9 +128,9 @@ Utilizar tecnologia para desenvolver soluções que automatizem processos, econo
 
 ## 📫 Contato | Contact | Contacto
 
-📷 Instagram: **@kolzzdev**
-
-💬 Discord: **@24001**
+📷 Instagram: [@kolzzdev](https://www.instagram.com/kolzzdev/)
+💬 Discord: [@kolzzdev](https://discord.com/users/944286978856353922)
+💬 E-mail: joaokosmalaofc@gmail.com
 
 📍 Santa Catarina - Brasil
 
