@@ -1,48 +1,71 @@
-<h1 align="center">👨‍💻 João Kosmala</h1>
+<h1 align="center">🚀 João Kosmala</h1>
+
+<h3 align="center">
+Software Developer | Systems Automation | Web Solutions
+</h3>
 
 <p align="center">
-Desenvolvedor Front-End | Front-End Developer | Desarrollador Front-End  
-<br>
-Node.js | Bots para Discord | Discord Bots | Bots de Discord  
-<br>
-Sistemas Web | Web Systems | Sistemas Web
+⚙️ Sistemas Web Modernos <br>
+🤖 Bots Personalizados e Automações <br>
+📈 Soluções para Empresas Ganharem Tempo e Escalarem Resultados
 </p>
 
 ---
 
-## 🇧🇷 Sobre mim (Português)
+## 🇧🇷 Sobre Mim
 
-Olá! Meu nome é **João Kosmala** e sou **Desenvolvedor Front-End**, com foco em projetos que utilizam **Node.js**, **JavaScript**, **HTML5** e **CSS3**. Também possuo experiência com linguagens como **PHP**, **Java**, entre outras.
+Olá! Meu nome é **João Kosmala** e sou **Desenvolvedor de Software**, formado em **Análise e Desenvolvimento de Sistemas**.
 
-Tenho **formação em Análise e Desenvolvimento de Sistemas**, o que me proporciona uma base sólida em lógica de programação, estruturas de dados e desenvolvimento de aplicações web.
+Atuo no desenvolvimento de **sistemas web**, **automações**, **integrações com APIs** e **bots personalizados**, criando soluções que ajudam empresas e comunidades a otimizar processos, reduzir tarefas manuais e aumentar a produtividade.
 
-Atuo na criação de **bots personalizados para Discord**, **sistemas web interativos** e **interfaces modernas** com foco em desempenho e usabilidade. Busco sempre entregar soluções escaláveis e adaptadas às necessidades de cada cliente.
+Tenho experiência com tecnologias do ecossistema JavaScript e desenvolvimento de aplicações modernas, sempre focando em desempenho, organização e escalabilidade.
 
-Sou movido por inovação, foco em resultados e paixão por transformar ideias em soluções reais.
+### Atualmente trabalho com:
 
----
-
-## 🇺🇸 About me (English)
-
-Hello! My name is **João Kosmala**, and I'm a **Front-End Developer**, focused on projects using **Node.js**, **JavaScript**, **HTML5**, and **CSS3**. I also have experience with languages like **PHP**, **Java**, among others.
-
-I hold a **degree in Systems Analysis and Development**, which gives me a solid foundation in programming logic, data structures, and web application development.
-
-I specialize in building **custom Discord bots**, **interactive web systems**, and **modern interfaces** with performance and usability in mind. I always aim to deliver scalable solutions tailored to each client’s needs.
-
-I’m driven by innovation, result-oriented, and passionate about turning ideas into real solutions.
+- ⚙️ Automação de Processos
+- 🤖 Desenvolvimento de Bots Personalizados
+- 🌐 Sistemas Web
+- 🔗 Integrações com APIs
+- 📊 Dashboards Administrativos
+- 🚀 Soluções Personalizadas para Empresas
 
 ---
 
-## 🇪🇸 Sobre mí (Español)
+## 🇺🇸 About Me
 
-¡Hola! Mi nombre es **João Kosmala** y soy **Desarrollador Front-End**, enfocado en proyectos que utilizan **Node.js**, **JavaScript**, **HTML5** y **CSS3**. También tengo experiencia con lenguajes como **PHP**, **Java**, entre otros.
+Hello! My name is **João Kosmala** and I am a **Software Developer** with a degree in **Systems Analysis and Development**.
 
-Tengo formación en **Análisis y Desarrollo de Sistemas**, lo que me brinda una base sólida en lógica de programación, estructuras de datos y desarrollo web.
+I specialize in building web systems, automations, API integrations and custom bots designed to improve productivity and optimize business processes.
 
-Trabajo principalmente en la creación de **bots personalizados para Discord**, **sistemas web interactivos** e **interfaces modernas** enfocadas en el rendimiento y la usabilidad. Siempre busco ofrecer soluciones escalables y adaptadas a cada cliente.
+My goal is to transform real-world problems into efficient, scalable and modern technology solutions.
 
-Me motiva la innovación, el enfoque en resultados y la pasión por convertir ideas en soluciones reales.
+### Currently working with:
+
+- Process Automation
+- Custom Bot Development
+- Web Systems
+- API Integrations
+- Administrative Dashboards
+- Custom Business Solutions
+
+---
+
+## 🇪🇸 Sobre Mí
+
+¡Hola! Mi nombre es **João Kosmala** y soy **Desarrollador de Software**, graduado en **Análisis y Desarrollo de Sistemas**.
+
+Me especializo en el desarrollo de sistemas web, automatizaciones, integraciones con APIs y bots personalizados orientados a la productividad empresarial.
+
+Mi objetivo es transformar necesidades reales en soluciones tecnológicas modernas, eficientes y escalables.
+
+### Actualmente trabajo con:
+
+- Automatización de Procesos
+- Desarrollo de Bots Personalizados
+- Sistemas Web
+- Integraciones con APIs
+- Dashboards Administrativos
+- Soluciones Empresariales Personalizadas
 
 ---
 
@@ -54,41 +77,65 @@ Me motiva la innovación, el enfoque en resultados y la pasión por convertir id
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🚀 Projetos em destaque | Featured Projects | Proyectos destacados
+## 🚀 Especialidades | Specialties | Especialidades
 
-- 🔧 Bots para Discord com comandos, logs e banco de dados  
-- 🌐 Sites responsivos e modernos com interfaces otimizadas  
-- ⚙️ Sistemas de automação, estatísticas e dashboards  
+### 🤖 Bots Personalizados
 
-> *Confira meus repositórios para saber mais!*  
-> *Check out my repositories for more!*  
-> *¡Consulta mis repositorios para más detalles!*
+- Sistemas de moderação
+- Logs avançados
+- Integrações externas
+- Banco de dados
+- Automações personalizadas
+
+### 🌐 Sistemas Web
+
+- Painéis administrativos
+- Sistemas empresariais
+- Dashboards
+- Gestão de usuários
+- Ferramentas internas
+
+### ⚙️ Automação
+
+Desenvolvimento de soluções capazes de reduzir tarefas manuais, otimizar fluxos de trabalho e aumentar a produtividade através da tecnologia.
 
 ---
 
-## 📊 Estatísticas GitHub | GitHub Stats | Estadísticas de GitHub
+## 📊 Estatísticas GitHub | GitHub Stats | Estadísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaokosmala&show_icons=true&theme=radical" alt="Estatísticas de João Kosmala" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaokosmala&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaokosmala&theme=radical" alt="Streak de João Kosmala" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaokosmala&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaokosmala&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
+---
+
+## 🎯 Objetivo | Goal | Objetivo
+
+Utilizar tecnologia para desenvolver soluções que automatizem processos, economizem tempo e gerem resultados reais para empresas e comunidades.
 
 ---
 
 ## 📫 Contato | Contact | Contacto
 
-- 📧 Email: **joaokosmalaofc@email.com**  
-- 📷 Instagram: [@joaokosmala](https://instagram.com/joaokosmala)  
-- 💬 Discord: **[@24001](https://discord.com/channels/@me/1226298476434952265)**
+📷 Instagram: **@kolzzdev**
+
+💬 Discord: **@24001**
+
+📍 Santa Catarina - Brasil
+
+---
+
+<p align="center">
+⭐ Obrigado por visitar meu perfil!
+</p>
